@@ -1,0 +1,66 @@
+.Brigow-image{
+width: 250px;
+background-color: #f1f1f1;
+}
+.header-image{
+    padding:0px;
+}
+
+.vertical-menu {
+    width: 200px;
+    height:982px;  
+}
+
+.vertical-menu a {
+    background-color: #f1f1f1;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    margin-right: 0px;
+    width: 250px;
+}
+
+.vertical-menu a:hover {
+    background-color:  #f1f1f1;
+}
+
+.vertical-menu a.active {
+    background-color:  #f1f1f1;
+    color: #031C3B;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.menu-texts{
+    padding-left:300px;
+}
+.terms{
+    margin-bottom: 550px;
+    padding-left: 100px;
+}
+.terms-text{
+    margin-bottom: 150px;
+    margin-left: 300px;
+}
+.terms-para{
+    margin-bottom: 200px;
+}
+.btn {
+    background:#031C3B;
+    background-image: -webkit-linear-gradient(top,  #031C3B,  #031C3B);
+    background-image: -moz-linear-gradient(top,  #031C3B,  #031C3B);
+    background-image: -ms-linear-gradient(top,  #031C3B,  #031C3B);
+    background-image: -o-linear-gradient(top,  #031C3B,  #031C3B);
+    background-image: linear-gradient(to bottom,  #031C3B,  #031C3B);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 48px 10px 48px;
+    text-decoration: none;
+    margin-left: 750px;
+  }
+  
